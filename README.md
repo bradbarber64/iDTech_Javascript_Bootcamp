@@ -1,4 +1,4 @@
 # iDTech_Javascript_Bootcamp
 
-#Project 1: 
+<h1>Project 1: </h1> 
 #Pacman Project: 
